@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-icelandic
 Version:	20131013
-Release:	2
+Release:	3
 Summary:	TeXLive babel-icelandic package
 Group:		Publishing
 URL:		http://tug.org/texlive

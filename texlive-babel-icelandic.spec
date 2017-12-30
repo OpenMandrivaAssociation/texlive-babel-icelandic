@@ -1,12 +1,6 @@
-# revision 30275
-# category Package
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-babel-icelandic
-Version:	20131013
-Release:	9
+Version:	1.2b
+Release:	1
 Summary:	TeXLive babel-icelandic package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -32,11 +26,10 @@ TeXLive babel-icelandic package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/generic/babel-icelandic/icelandic.ldf
-%doc %{_texmfdistdir}/doc/generic/babel-icelandic/icelandic.pdf
+%{_texmfdistdir}/tex/generic/babel-icelandic
+%doc %{_texmfdistdir}/doc/generic/babel-icelandic
 #- source
-%doc %{_texmfdistdir}/source/generic/babel-icelandic/icelandic.dtx
-%doc %{_texmfdistdir}/source/generic/babel-icelandic/icelandic.ins
+%doc %{_texmfdistdir}/source/generic/babel-icelandic
 
 #-----------------------------------------------------------------------
 %prep

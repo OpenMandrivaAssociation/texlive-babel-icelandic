@@ -1,5 +1,5 @@
 Name:		texlive-babel-icelandic
-Version:	1.2b
+Version:	20170414
 Release:	1
 Summary:	TeXLive babel-icelandic package
 Group:		Publishing

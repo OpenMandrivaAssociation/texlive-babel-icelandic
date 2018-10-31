@@ -1,6 +1,6 @@
 Name:		texlive-babel-icelandic
 Version:	1.2b
-Release:	1
+Release:	2
 Summary:	TeXLive babel-icelandic package
 Group:		Publishing
 URL:		http://tug.org/texlive
